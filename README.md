@@ -1,3 +1,3 @@
-# git_demo
+# Git_demo
 My first git file(not technically) <br>
 lets see
